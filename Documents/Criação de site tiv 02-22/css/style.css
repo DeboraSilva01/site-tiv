@@ -1,0 +1,53 @@
+body{
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+footer{
+    height: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+    color: #000;
+    font-style: italic;
+}
+span{
+    margin-left: 30px;
+}
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    
+    
+   
+    
+}
+.galeria-items{
+    width: 340px;
+    height: 250px;
+    border: 10px solid#fff;
+    
+    
+}
+.galeria-items img{
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+.galeria-conteiner{
+    display: flex;
+
+
+}
+
+.alinhar{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.contato{
+    text-align: center;
+    margin-top: 10px;
+    
+}
